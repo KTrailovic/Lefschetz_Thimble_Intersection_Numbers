@@ -1,4 +1,4 @@
-# Mathematica Code for “Lefschetz Thimble Integration via Multiple Shooting Method”
+# Mathematica Code for “Evaluation of Lefschetz Thimble Intersection Numbers via Multiple Shooting Method”
  
 This repository provides a Mathematica code accompanying the paper:
  
